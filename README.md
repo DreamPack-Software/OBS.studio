@@ -70,4 +70,4 @@ Content creation for platforms like YouTube
 OBS Studio is built around control and flexibility 🛠️
 Instead of hiding complexity, it gives users full access to encoding, sources, and workflows—making it powerful for beginners and pros alike.
 
-# [Want a simplified screen recorder than OBS studio? Get it!](https://github.com/DreamPack-Software/oCam)
+# [Want a simplified screen recorder than OBS studio? Get!](https://github.com/DreamPack-Software/oCam)
